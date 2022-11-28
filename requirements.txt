@@ -1,6 +1,5 @@
 streamlit ==1.14.0
 altair ==4.2.0
 pandas ==1.4.4
-json ==4.17.0
 tweepy==4.12.1
 MeCab ==0.996.3
