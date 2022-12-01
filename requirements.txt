@@ -3,4 +3,3 @@ altair ==4.2.0
 pandas ==1.4.4
 tweepy==4.12.1
 mecab==0.996.3
-
